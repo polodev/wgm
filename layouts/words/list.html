@@ -1,0 +1,23 @@
+{{ define "main" }}
+<div>
+<h2 class="mb-4">All posts under <span class='mark'>{{.Title}} </span> </h2>
+  <div class="card my-2">
+    <div class="card-body">
+      <h3 class="post_title">
+        All letters
+      </h3>
+
+      <ul class="list-inline">
+        {{range .Page.Params.letters}}
+          <li class="list-inline-item my-2 tags">
+            <a href="{{$.Site.BaseURL}}words/{{.}}">{{.}}</a>
+          </li>
+        {{end}}
+      </ul>
+
+      {{.Content}}
+
+    </div>
+  </div>
+</div>
+{{ end }}

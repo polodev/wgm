@@ -1,0 +1,30 @@
+{{ define "main" }}
+<div id="single_page_content">
+  <h1 class="post_title">
+    <a href="{{.URL}}">{{.Title}}</a>
+  </h1>
+  <hr/>
+
+  <div class='article'>
+    {{.Content}}
+  </div>
+  <!-- /.article -->
+
+  <div class="text-center py-3">
+    {{ if .PrevInSection }}
+      <a class="btn btn-info" href="{{.PrevInSection.Permalink}}">Previous Word</a>
+    {{ end }}
+    {{ if .NextInSection }}
+      <a class="btn btn-info" href="{{.NextInSection.Permalink}}">Next Word</a>
+    {{ end }}
+  </div>
+
+</div>
+{{partial "related_content" .}}
+{{ partial "comments" . }}
+<progress value="0" id="progressBar">
+  <div class="progress-container">
+    <span class="progress-bar"></span>
+  </div>
+</progress>
+{{ end }}
