@@ -1,6 +1,6 @@
-baseURL='http://e.com'
+baseURL="https://polodev.github.io/wgm/"
 languageCode = "en-us"
-paginate=1
+paginate=10
 publishDir="docs"
 title = "Site"
 disqusShortname = "dev-learning"
