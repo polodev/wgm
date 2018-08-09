@@ -1,24 +1,25 @@
-+++
-type="post"
-authors= "Polo Dev"
-title= "Abash"
-word= "Abash"
-date= 2018-08-09T04:30:22+06:00
-layout= "word"
-complete = "false"
-meaning = ""
-draft = "false"
-weight = 1
-categories= ["words"]
-words= ["a"]
-tags= ["words", "vocabulary", "synonym", "antonym"]
-[[synonyms]]
-  word= 'a'
-  meaning= 'a'
-[[antonyms]]
-  word= 'a'
-  meaning= 'a'
-+++
+---
+type: post
+authors:
+- "Polo Dev"
+title: Abash
+word: Abash
+date: 2018-08-09T04:30:28+06:00
+layout: word
+complete : false
+meaning :
+draft : false
+weight : 1
+categories:
+- words
+words:
+- a
+tags:
+- words
+- vocabulary
+- synonym
+- antonym
+---
 to be **abashed** is to feel embarrassed & ashamed.
 **embarrassed** (); **ashamed** ()
 

@@ -1,24 +1,25 @@
-+++
-type="post"
-authors= "Polo Dev"
-title= "Abandon"
-word= "Abandon"
-date= 2018-08-09T04:30:28+06:00
-layout= "word"
-complete = "false"
-meaning = ""
-draft = "false"
-weight = 1
-categories= ["words"]
-words= ["a"]
-tags= ["words", "vocabulary", "synonym", "antonym"]
-[[synonyms]]
-  word= 'a'
-  meaning= 'a'
-[[antonyms]]
-  word= 'a'
-  meaning= 'a'
-+++
+---
+type: post
+authors:
+- "Polo Dev"
+title: Abandon
+word: Abandon
+date: 2018-08-09T04:30:28+06:00
+layout: word
+complete : false
+meaning :
+draft : false
+weight : 1
+categories:
+- words
+words:
+- a
+tags:
+- words
+- vocabulary
+- synonym
+- antonym
+---
 
 #### 1
 if you **abandon** something such as a place or object, you leave it permanently or for a long time, especially because you do not want to look after it(i.e. You do not want to take care of it) any longer. ()

@@ -2,9 +2,9 @@
 type: post
 authors:
 - "Polo Dev"
-title: {{ replace .Name "-" " " | title }}
-word: {{ replace .Name "-" " " | title }}
-date: {{ .Date }}
+title: Ab
+word: Ab
+date: 2018-08-09T16:19:07+06:00
 layout: word
 complete : false
 meaning:
@@ -20,3 +20,5 @@ tags:
 - synonym
 - antonym
 ---
+
+hello world from ab page
