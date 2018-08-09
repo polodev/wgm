@@ -7,13 +7,12 @@
           All letters
         </h2>
       </div>
-
       <ul class="list-inline">
-        {{range $.Site.Params.letters}}
-          <li class="list-inline-item my-2 tags">
-            <a href="{{$.Site.BaseURL}}words/{{.}}">{{.}}</a>
-          </li>
-        {{end}}
+        {{ range $key, $value := .Site.Taxonomies.words }}
+        <li class="list-inline-item my-2 tags">
+          <a class="btn btn-link" href="{{$.Site.BaseURL}}/words/{{$key | urlize}}">{{ $key | humanize }} ({{len $value }})</a>
+        </li>
+        {{ end }}
       </ul>
 
     </div>

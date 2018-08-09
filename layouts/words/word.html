@@ -3,14 +3,15 @@
 <h2 class="mb-4">All posts under <span class='mark'>{{.Title}} </span> </h2>
 {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
 {{ range .Paginator.Pages }}
+<a class="d-block" href="{{.URL}}">
   <div class="card my-2">
     <div class="card-body">
       <h3 class="post_title">
-        <a href="{{.URL}}">{{.Title}}</a>
+        {{.Title}}
       </h3>
-
     </div>
   </div>
+</a>
 {{ end }}
 {{ partial "pagination" . }}
 </div>
