@@ -6,12 +6,14 @@ title = "Site"
 disqusShortname = "dev-learning"
 [params]
   afterDomain='tutorials'
+  letters= ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l","m","n","o","p","q","r","s","t", "u", "v","w","x","y","z","k"]
 [taxonomies]
   category="categories"
   tag="tags"
   word="words"
   [outputs]
 home = [ "HTML", "RSS", "JSON"]
+
 [menu]
   [[menu.main]]
     identifier = "home"

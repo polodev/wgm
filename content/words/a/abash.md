@@ -22,9 +22,10 @@ tags= ["words", "vocabulary", "synonym", "antonym"]
 to be **abashed** is to feel embarrassed & ashamed.
 **embarrassed** (); **ashamed** ()
 
-### example
-1. Jonny felt **abashed** by her inability to remember the lines of the national anthem of "Aamar - Sonaar Bangla..".
+<span class="example">example:</span>Jonny felt **abashed** by her inability to remember the lines of the national anthem of "Aamar - Sonaar Bangla..".
 
+#### 1
 To do something without shame is to do it unabashedly
 
-example: Kolin handed in a term paper that he had unabashedly copied from the National Enquirer.
+<span class="example">example:</span> Kolin handed in a term paper that he had unabashedly copied from the National Enquirer.
+

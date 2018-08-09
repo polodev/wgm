@@ -120,3 +120,11 @@ pre {
     cursor: pointer;
   }
 }
+
+span.example {
+  display: inline-block;
+  padding: 0 2px;
+  margin-left: 6px;
+  border: 1px solid rgba(0,0,0, 0.4);
+  font-weight: bold;
+}
