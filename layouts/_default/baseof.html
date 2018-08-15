@@ -34,7 +34,7 @@
 </head>
 <body>
 {{ partial "menu" . }}
-<div class="center mt-4">
+<div class="container mt-4">
   <div class="row">
     <div class="col-md-9">
       <div class="mt-3">
@@ -50,6 +50,11 @@
     </div>
   </div>
 </div>
+<progress value="0" id="progressBar">
+<div class="progress-container">
+  <span class="progress-bar"></span>
+</div>
+</progress>
 {{ partial "editor.html" . }}
 <div title="open editor" id="open_editor_from_footer">
   <i class="fa fa-laptop-code"></i>

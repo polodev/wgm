@@ -1,9 +1,12 @@
 {{ define "main" }}
 <div id="single_page_content">
   <h1 class="post_title">
-    <a href="{{.URL}}">{{.Title}}</a>
+    {{.Title}}
+    {{ if .Params.pos}}
+      ({{.Params.pos}})
+    {{end}}
     {{ if .Params.pronunciation}}
-      ({{.Params.pronunciation}})
+      - ({{.Params.pronunciation}})
     {{end}}
   </h1>
   <hr/>
@@ -52,9 +55,4 @@
 </div>
 {{partial "related_content" .}}
 {{ partial "comments" . }}
-<progress value="0" id="progressBar">
-  <div class="progress-container">
-    <span class="progress-bar"></span>
-  </div>
-</progress>
 {{ end }}

@@ -2,8 +2,8 @@
 type: post
 authors:
 - "Polo Dev"
-title: Acturial
-date: 2018-08-15T19:22:26+06:00
+title: Astute
+date: 2018-08-15T21:03:34+06:00
 layout: word
 draft : false
 complete : false
@@ -11,12 +11,13 @@ complete : false
 
 words:
 - a
-word: Acturial
+word: Astute
+pos: adj
+meaning: wise; skilled
+memory_keyword: A science tutor
+memory_sentence: Our science tutor is very wise
+sentence: an astute lawyer/business
 pronunciation:
-meaning: calculating
-memory_keyword: actual
-memory_sentence: to calculate actual result, you need a calculator.
-sentence: His acturial skill is very good.
 pictures:
 synonyms:
 antonyms:

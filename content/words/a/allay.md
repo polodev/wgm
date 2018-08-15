@@ -2,8 +2,8 @@
 type: post
 authors:
 - "Polo Dev"
-title: Abstruse
-date: 2018-08-15T19:10:04+06:00
+title: Allay
+date: 2018-08-15T20:31:09+06:00
 layout: word
 draft : false
 complete : false
@@ -11,12 +11,13 @@ complete : false
 
 words:
 - a
-word: Abstruse
+word: Allay
+pos: v
+meaning: to lessen; to calm;
+memory_keyword: LA (los angels)
+memory_sentence: To calm my self I went LA.
+sentence: Allay troubles/fear.
 pronunciation:
-meaning: "difficult to understand"
-memory_keyword: "True"
-memory_sentence: "Truth is always difficult to understand"
-sentence: "Abstruse argument / topic."
 pictures:
 synonyms:
 antonyms:

@@ -10,6 +10,7 @@ complete : false
 
 
 word: Abase
+pos: v
 pronunciation: "əˈbeɪs"
 words:
 - a

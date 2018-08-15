@@ -20,9 +20,9 @@
   <link rel="stylesheet" href="/wgm/css/style.css">
 
   
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.js" integrity="sha384-/y1Nn9+QQAipbNQWU65krzJralCnuOasHncUFXGkdwntGeSvQicrYkiUBwsgUqc1" crossorigin="anonymous"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/contrib/auto-render.min.js" integrity="sha384-dq1/gEHSxPZQ7DdrM82ID4YVol9BYyU7GbWlIwnwyPzotpoc57wDw/guX8EaYGPx" crossorigin="anonymous"></script>
+  
+  
+  
 
 
 </head>
@@ -44,6 +44,10 @@
       
         <li class='nav-item '>
           <a class="nav-link" href='/wgm/words/'>words</a>
+        </li>
+      
+        <li class='nav-item '>
+          <a class="nav-link" href='/wgm/dates/'>dates</a>
         </li>
       
         <li class='nav-item '>
@@ -73,21 +77,81 @@
 <h2 class="mb-4">All posts under <span class='mark'>A </span> </h2>
 
 
-<a class="d-block" href="/wgm/words/a/abandon/">
+<a class="d-block" href="/wgm/words/a/affluence/">
   <div class="card my-2">
     <div class="card-body">
       <h3 class="post_title">
-        Abandon
+        Affluence
       </h3>
     </div>
   </div>
 </a>
 
-<a class="d-block" href="/wgm/words/a/abash/">
+<a class="d-block" href="/wgm/words/a/affected/">
   <div class="card my-2">
     <div class="card-body">
       <h3 class="post_title">
-        Abash
+        Affected
+      </h3>
+    </div>
+  </div>
+</a>
+
+<a class="d-block" href="/wgm/words/a/aegis/">
+  <div class="card my-2">
+    <div class="card-body">
+      <h3 class="post_title">
+        Aegis
+      </h3>
+    </div>
+  </div>
+</a>
+
+<a class="d-block" href="/wgm/words/a/adroit/">
+  <div class="card my-2">
+    <div class="card-body">
+      <h3 class="post_title">
+        Adroit
+      </h3>
+    </div>
+  </div>
+</a>
+
+<a class="d-block" href="/wgm/words/a/acturial/">
+  <div class="card my-2">
+    <div class="card-body">
+      <h3 class="post_title">
+        Acturial
+      </h3>
+    </div>
+  </div>
+</a>
+
+<a class="d-block" href="/wgm/words/a/acclimatize/">
+  <div class="card my-2">
+    <div class="card-body">
+      <h3 class="post_title">
+        Acclimatize
+      </h3>
+    </div>
+  </div>
+</a>
+
+<a class="d-block" href="/wgm/words/a/abstruse/">
+  <div class="card my-2">
+    <div class="card-body">
+      <h3 class="post_title">
+        Abstruse
+      </h3>
+    </div>
+  </div>
+</a>
+
+<a class="d-block" href="/wgm/words/a/abase/">
+  <div class="card my-2">
+    <div class="card-body">
+      <h3 class="post_title">
+        Abase
       </h3>
     </div>
   </div>
@@ -112,7 +176,7 @@
     <ul class="list-group">
       
       <li class="list-group-item">
-        <a class="btn btn-link" href="https://polodev.github.io/wgm//words/a">A (2)</a>
+        <a class="btn btn-link" href="https://polodev.github.io/wgm//words/a">A (8)</a>
       </li>
       
     </ul>
@@ -125,157 +189,12 @@
     </div>
   </div>
 </div>
-<div id='editor' class="hidden">
-  <div id='editor_inner'>
-    <div class='codemirror_area'>
-
-      <div class='codemirror_setting'>
-        <div class='codemirror_setting_inner pb-3'>
-          <div class='d-flex justify-content-between'>
-            <h4>setting</h4>
-            <button id="close_codemirror_setting_button" class="btn btn-secondary"><i class="fa fa-times"></i></button>
-          </div>
-          <hr/>
-        <div class='row'>
-
-
-          <div class='col-sm-4'>
-            <h3>Editor</h3>
-
-            <div class='form-check'>
-              <input name="vim" value="vim" type='checkbox' id="vim" class='form-check-input'/>
-              <label for='vim' class='form-check-label'>Enable Vim keymap</label>
-            </div>
-            
-            <div class='form-check'>
-              <input name="lineWrapping" value="lineWrapping" type='checkbox' id="lineWrapping" class='form-check-input'/>
-              <label for='lineWrapping' class='form-check-label'>Enable Line Wrapping</label>
-            </div>
-            
-
-            <div class='form-group'>
-              <label for='font_family'>Font Family</label>
-              <select name='font_family' id='font_family' class="form-control">
-                <option value='monaco'>Monaco</option>
-                <option value='menlo'>Menlo</option>
-                <option value='fira_code'>fira_code</option>
-                <option value='source_code_pro'>Source Code Pro</option>
-                <option value='ubuntu_mono'>Ubuntu Mono</option>
-              </select>
-            </div>
-            
-            <div class='form-group'>
-              <label for='font_size'>Font Size</label>
-              <select name='font_size' id='font_size'>
-                <option value='14px'>14px</option>
-                <option value='16px'>16px</option>
-                <option value='18px'>18px</option>
-                <option value='20px'>20px</option>
-                <option value='22px'>22px</option>
-                <option value='22px'>22px</option>
-                <option value='24px'>24px</option>
-                <option value='26px'>26px</option>
-                <option value='28px'>28px</option>
-                <option value='30px'>30px</option>
-              </select>
-            </div>
-            
-            <div class='input-group'>
-              <div class='input-group-prepend'>
-                <label for='tab_size'>tab size</label>
-              </div>
-              <input type='text' name='tab_size' id='tab_size' class="form-control" />
-              
-            </div>
-          </div>
-          <div class='col-sm-4'>
-            <h3>Theme</h3>
-            <div>
-              <div class='form-check'>
-                <input value="monokai" type='radio' class="form-check-input" id="monokai" name="theme" />
-                <label class="form-check-label" for='monokai'>monokai</label>
-              </div>
-              
-              <div class='form-check'>
-                <input value="material" type='radio' class="form-check-input" id="material" name="theme" />
-                <label class="form-check-label" for='material'>material</label>
-              </div>
-              
-              <div class='form-check'>
-                <input value="solarized" type='radio' class="form-check-input" id="solarized" name="theme" />
-                <label class="form-check-label" for='solarized'>solarized</label>
-              </div>
-              
-              <div class='form-check'>
-                <input value="tomorrow-night-bright" type='radio' class="form-check-input" id="tomorrow-night-bright" name="theme" />
-                <label class="form-check-label" for='tomorrow-night-bright'>tomorrow-night-bright</label>
-              </div>
-              
-            </div>
-          </div>
-
-          <div class='col-sm-4'>
-            <h3>Mode</h3>
-              <div class='form-check'>
-                <input value="htmlmixed" type='radio' class="form-check-input" id="htmlmixed" name="mode" />
-                <label class="form-check-label" for='htmlmixed'>Html</label>
-              </div>
-              
-              <div class='form-check'>
-                <input value="css" type='radio' class="form-check-input" id="css" name="mode" />
-                <label class="form-check-label" for='css'>Css</label>
-              </div>
-              
-              <div class='form-check'>
-                <input value="javascript" type='radio' class="form-check-input" id="javascript" name="mode" />
-                <label class="form-check-label" for='javascript'>JavaScript</label>
-              </div>
-              
-              <div class='form-check'>
-                <input value="jsx" type='radio' class="form-check-input" id="jsx" name="mode" />
-                <label class="form-check-label" for='jsx'>Jsx</label>
-              </div>
-              
-              <div class='form-check'>
-                <input value="php" type='radio' class="form-check-input" id="php" name="mode" />
-                <label class="form-check-label"  for='php'>Php</label>
-              </div>
-              
-              <div class='form-check'>
-                <input value="sql" type='radio' class="form-check-input" id="sql" name="mode" />
-                <label class="form-check-label" for='sql'>Sql</label>
-              </div>
-              
-              <div class='form-check'>
-                <input value="markdown" type='radio' class="form-check-input" id="markdown" name="mode" />
-                <label class="form-check-label" for='markdown'>Markdown</label>
-              </div>
-              
-          </div>
-
-        </div>
-          
-        </div>
-      </div>
-
-      <div class='codemirror_wrapper'>
-
-        
-        <div id='codemirror_editor'></div>
-
-        <div class="codemirror_editor_button">
-          <button class='btn btn-danger' id="close_footer_panel_button"><i class="fa fa-times"></i></button>
-          <button class='btn btn-info' id="open_codemirror_setting_button"><i class="fa fa-wrench"></i></button>
-        </div>
-      </div>
-
-    </div>
-  </div>
+<progress value="0" id="progressBar">
+<div class="progress-container">
+  <span class="progress-bar"></span>
 </div>
+</progress>
 
-<div title="open editor" id="open_editor_from_footer">
-  <i class="fa fa-laptop-code"></i>
-</div>
 <script src="/wgm/js/jquery.min.js"></script>
 <script src="/wgm/js/resizable.js"></script>
 
@@ -295,7 +214,7 @@
 
 
 
-<script>renderMathInElement(document.body);</script>
+
 
 </body>
 </html>

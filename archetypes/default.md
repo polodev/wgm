@@ -12,11 +12,12 @@ complete : false
 words:
 - a
 word: {{ replace .Name "-" " " | title }}
-pronunciation:
+pos: v
 meaning:
 memory_keyword:
 memory_sentence:
 sentence:
+pronunciation:
 pictures:
 synonyms:
 antonyms:
