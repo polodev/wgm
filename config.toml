@@ -27,6 +27,11 @@ home = [ "HTML", "RSS", "JSON"]
     url = "/words/"
     weight = 2
   [[menu.main]]
+    identifier = "dates"
+    title = "dates"
+    url = "/dates/"
+    weight = 3
+  [[menu.main]]
     identifier = "about"
     name = "this is about page"
     title = "about"
