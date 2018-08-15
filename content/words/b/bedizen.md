@@ -10,7 +10,7 @@ complete : false
 
 
 words:
-- a
+- b
 word: Bedizen
 pos: v
 meaning: adorn with showy manner

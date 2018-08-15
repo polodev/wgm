@@ -10,7 +10,7 @@ complete : false
 
 
 words:
-- a
+- b
 word: Blandishment
 pos: n
 meaning: pleasant talks/action to flatter somebody

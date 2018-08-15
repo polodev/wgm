@@ -10,7 +10,7 @@ complete : false
 
 
 words:
-- a
+- b
 word: Bellicose
 pos: adj
 meaning: quarrelsome; warlike

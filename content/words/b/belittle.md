@@ -10,7 +10,7 @@ complete : false
 
 
 words:
-- a
+- b
 word: Belittle
 pos: v
 meaning: to disparage

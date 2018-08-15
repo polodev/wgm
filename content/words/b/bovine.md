@@ -2,8 +2,8 @@
 type: post
 authors:
 - "Polo Dev"
-title: Brazen
-date: 2018-08-15T22:54:12+06:00
+title: Bovine
+date: 2018-08-15T23:34:34+06:00
 layout: word
 draft : false
 complete : false
@@ -11,12 +11,12 @@ complete : false
 
 words:
 - b
-word: Brazen
+word: Bovine
 pos: adj
-meaning: shameless; bold
-memory_keyword: BRA
-memory_sentence: a shameless lady undressed her shirt and bra.
-sentence: A brazen lady.
+meaning: slow and stupid
+memory_keyword: Bow wine
+memory_sentence: A slow and stupid person the picked up the bow & arrow to hit a wine bottle
+sentence: bovine person
 pronunciation:
 pictures:
 synonyms:

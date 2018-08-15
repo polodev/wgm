@@ -10,7 +10,7 @@ complete : false
 
 
 words:
-- a
+- b
 word: Banal
 pos: adj
 meaning: Dull; uninteresting
