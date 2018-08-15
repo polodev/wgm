@@ -1,7 +1,10 @@
 {{ define "main" }}
 <div id="single_page_content">
   <h1 class="post_title">
-    <a href="{{.URL}}">{{.Title}}</a> ({{.Params.pronunciation}})
+    <a href="{{.URL}}">{{.Title}}</a>
+    {{ if .Params.pronunciation}}
+      ({{.Params.pronunciation}})
+    {{end}}
   </h1>
   <hr/>
 
@@ -11,8 +14,11 @@
         <h2>Memory</h2>
       </div>
       <div class="card-body">
-        <p>Keyword: {{.Params.memory_keyword}}</p>
-        <p>Sentence: {{.Params.memory_sentence}}</p>
+        <p>
+          <strong>Keyword: </strong> {{.Params.memory_keyword}}
+        </p>
+        <p>
+        <strong>Sentence: </strong> {{.Params.memory_sentence}}</p>
       </div>
     </div>
   {{ end }}
@@ -23,8 +29,8 @@
     </div>
     <div class="card-body">
       <section>
-        <p>meaning: {{ .Params.meaning }} </p>
-        <p>sentence: {{ .Params.sentence }}</p>
+        <p> <strong>Meaning:</strong> {{ .Params.meaning }} </p>
+        <p> <strong>Sentence: </strong>{{ .Params.sentence }}</p>
       </section>
       <hr>
       <div class='article'>
