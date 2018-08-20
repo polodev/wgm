@@ -19,6 +19,10 @@ memory_sentence: A slow and stupid person the picked up the bow & arrow to hit a
 sentence: bovine person
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

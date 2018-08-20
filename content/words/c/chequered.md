@@ -18,6 +18,10 @@ memory_sentence: Whether my son is in good or bad time, he never forgets to send
 sentence: A chequered career
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

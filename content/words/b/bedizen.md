@@ -19,6 +19,10 @@ memory_sentence: The zen of kiran bedi was adorned with showy manner on the repu
 sentence: The Horses were bedizened before the republic day
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

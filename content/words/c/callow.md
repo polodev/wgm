@@ -19,6 +19,10 @@ memory_sentence: our servant __kalu__ is still immature & inexperienced.
 sentence: a callow youth
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

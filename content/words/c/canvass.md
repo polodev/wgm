@@ -19,6 +19,10 @@ memory_sentence: Some politicians sitting on ASS with CANE in their hand were as
 sentence: Canvassing the constituency next month.
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

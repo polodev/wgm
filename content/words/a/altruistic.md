@@ -19,6 +19,10 @@ memory_sentence: The kind & generous people trust (all)
 sentence: Altruistic behavior
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

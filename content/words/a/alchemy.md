@@ -19,6 +19,10 @@ memory_sentence: All chemists are practicing medieval chemistry
 sentence: practicing and studying alchemy.
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

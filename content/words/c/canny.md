@@ -19,6 +19,10 @@ memory_sentence: He decided to buy two pepsi bottles instead of pepsi cans. He i
 sentence: a canny fellow
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

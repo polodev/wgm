@@ -19,6 +19,10 @@ memory_sentence: certificate or document gives the feeling of sureness to the em
 sentence: I like his certitude of giving answer
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

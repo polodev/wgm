@@ -19,6 +19,10 @@ memory_sentence: our all the efforts on computer became spoiled. when the light 
 sentence: A  career blighted by poor decisions.
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

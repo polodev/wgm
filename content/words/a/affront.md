@@ -19,6 +19,10 @@ memory_sentence: we should not insult anybody in front of somebody else.
 sentence: His speech was an affront to the members
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

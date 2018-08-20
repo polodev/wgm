@@ -19,6 +19,10 @@ memory_sentence: The speaker's voice was clear so I was able to grasp things wit
 sentence: Show clairvoyance in computer field
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

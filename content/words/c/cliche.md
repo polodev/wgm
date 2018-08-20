@@ -19,6 +19,10 @@ memory_sentence: Avoid using phrase in the speech repeatitively like clutch in a
 sentence: Don't use cliche in your speech
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

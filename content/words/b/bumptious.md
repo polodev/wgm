@@ -19,6 +19,10 @@ memory_sentence: My arrogant friend was bumping here and there unnecessarily
 sentence: My boss/teacher has bumptious behavior
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

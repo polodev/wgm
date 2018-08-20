@@ -19,6 +19,10 @@ memory_sentence: after the bomb blast, people started to speak in noisy manner
 sentence: It was just bluster. I was not able to understand anything
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

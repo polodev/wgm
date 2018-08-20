@@ -19,6 +19,10 @@ memory_sentence: A Saint was cleaning his teeth with anchor toothpaste
 sentence: He is an anchorite
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

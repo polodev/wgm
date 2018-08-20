@@ -19,6 +19,10 @@ memory_keyword: "True"
 memory_sentence: "Truth is always difficult to understand"
 sentence: "Abstruse argument / topic."
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

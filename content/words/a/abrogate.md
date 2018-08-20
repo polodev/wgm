@@ -19,6 +19,10 @@ memory_sentence: When his admission was canceled he started to weep at the gate
 sentence: The judge abrogated a law
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

@@ -19,6 +19,10 @@ memory_sentence: See the Attitude of the students nowadays. The teacher was beat
 sentence: Beatitude life.
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

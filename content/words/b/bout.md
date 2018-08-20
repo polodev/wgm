@@ -19,6 +19,10 @@ memory_sentence: After a short period of intense work in the school during admis
 sentence: She has bouts of hard work following by long period of an illness.
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

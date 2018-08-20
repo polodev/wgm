@@ -19,6 +19,10 @@ memory_sentence: the property dealer who wants to sell his land, was flattering 
 sentence: He refused to be moved by her blandishment.
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

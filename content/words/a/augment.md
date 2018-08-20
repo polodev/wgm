@@ -19,6 +19,10 @@ memory_sentence: to increase the fire he put mint in the _aagun_
 sentence: He started to augment his income by other ways.
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

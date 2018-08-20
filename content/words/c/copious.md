@@ -19,6 +19,10 @@ memory_sentence: Plenty of copies of this book are available in the library.
 sentence: Copious note taking required in Advanced Coding class.
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

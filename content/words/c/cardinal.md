@@ -19,6 +19,10 @@ memory_sentence: Visa CARD is most important for visiting a foreign country
 sentence: A cardinal rule or reason
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

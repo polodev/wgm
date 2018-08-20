@@ -19,6 +19,10 @@ memory_sentence: Both the bails fell down from the stumps on the deadly ball of 
 sentence: a baleful look
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

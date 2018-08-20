@@ -19,6 +19,10 @@ memory_sentence: The principle asked the teachers to evaluate the eassy on popul
 sentence: Prepare an assay of a metal structure
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

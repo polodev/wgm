@@ -19,6 +19,10 @@ memory_sentence: The quarrelsome lady was showing her belly to the young boys wh
 sentence: She has bellicose nature
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

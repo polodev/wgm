@@ -19,6 +19,10 @@ memory_sentence: my father compelled me to do the computer course
 sentence: Don't coerce me for marriage
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

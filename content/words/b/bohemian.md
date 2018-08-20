@@ -19,6 +19,10 @@ memory_sentence: The men was meeting everybody in an unconventional and artistic
 sentence: Most creative people live a bohemian life
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

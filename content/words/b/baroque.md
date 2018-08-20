@@ -19,6 +19,10 @@ memory_sentence: This Bar was decorated in an elaborated and ornamental style.
 sentence: Baroque places
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

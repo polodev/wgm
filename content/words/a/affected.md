@@ -19,6 +19,10 @@ memory_keyword: Affect
 memory_sentence: He lost all his property but in artificial manner he showed that it didn't affect on him
 sentence: Live a life of affluence.
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

@@ -19,6 +19,10 @@ memory_sentence: The Bazzar was full of different & unusual goods
 sentence: this was a bizarre(Bizzare) experience of my life.
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

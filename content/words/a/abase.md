@@ -19,6 +19,10 @@ memory_keyword: "basement"
 memory_sentence: "We took him in the basement and degraded him."
 sentence: "Some cowardice abased the soldiers image."
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

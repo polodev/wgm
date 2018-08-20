@@ -19,6 +19,10 @@ memory_sentence: The recovery department of bank intimidating the people who bor
 sentence: The senior students were browbeating the new students during the ragging period
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

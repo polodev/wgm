@@ -19,6 +19,10 @@ memory_sentence: I wanted to be a football star by fully concentration on my pla
 sentence: The father bolstered his son's courage and enthusiasm
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

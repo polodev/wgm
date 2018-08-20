@@ -19,6 +19,10 @@ memory_sentence: I was not able to decide how to balance my professional and per
 sentence: Whether to go or not an ambivalence situation.
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

@@ -19,6 +19,10 @@ memory_sentence: As the price of CAP suddenly changing we bought it quickly.
 sentence: A capricious climate
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

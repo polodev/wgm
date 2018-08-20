@@ -19,6 +19,10 @@ memory_sentence: Enter your secret code to purchase it cheap price
 sentence: The messages were sent to the agent to usa in ciphers.
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

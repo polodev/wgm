@@ -19,6 +19,10 @@ memory_sentence: to damage his reputation, we added __mirch__(red chilli) in his
 sentence: He tried to besmirch his reputation in the party.
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

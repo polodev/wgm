@@ -19,6 +19,10 @@ memory_sentence: There was a agreement between father and son to buy an Hyundai 
 sentence: A peace accord between two countries
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

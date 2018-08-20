@@ -19,6 +19,10 @@ memory_keyword: "Ad-Advertisement - Wrote"
 memory_sentence: "The person who wrote cadbury's advertisement script was very skillful."
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

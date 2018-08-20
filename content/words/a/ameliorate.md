@@ -19,6 +19,10 @@ memory_sentence: amul rate as well as quality is improving everyday.
 sentence: The situation in pakistan after war is ameliorating
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

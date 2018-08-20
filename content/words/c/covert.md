@@ -19,6 +19,10 @@ memory_sentence: He wrapped the secret file in a cover handed over to the cbi
 sentence: He had covert idea in the mind
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

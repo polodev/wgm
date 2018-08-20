@@ -19,6 +19,10 @@ memory_sentence: National flag caught wild fire on Independence day.
 sentence: A conflagration during the war
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

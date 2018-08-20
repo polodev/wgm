@@ -19,6 +19,10 @@ memory_keyword: Fluency
 memory_sentence: His Fluency in english was very good. So he earned a lot of wealth.
 sentence: Live a life of affluence.
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

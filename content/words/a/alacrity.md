@@ -19,6 +19,10 @@ memory_sentence: There was sudden promptness in his work, the moment he got one 
 sentence: He accepted her offer with alacrity.
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

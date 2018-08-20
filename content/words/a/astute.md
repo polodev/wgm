@@ -19,6 +19,10 @@ memory_sentence: Our science tutor is very wise
 sentence: an astute lawyer/business
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

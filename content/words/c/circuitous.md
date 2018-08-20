@@ -19,6 +19,10 @@ memory_sentence: The auto-rickshaw driver took us to the circus through roundabo
 sentence: a circuitous route
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

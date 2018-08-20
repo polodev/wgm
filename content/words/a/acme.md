@@ -19,6 +19,10 @@ memory_sentence: Last year, Lakme company's sale was at the peak.
 sentence: Reach at the acme of success.
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

@@ -19,6 +19,10 @@ memory_sentence: In a CHEATING and tricky manner, he kissed on her girl and by s
 sentence:  He beguiled himself by thinking of the old times
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

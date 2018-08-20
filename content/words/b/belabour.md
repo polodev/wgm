@@ -19,6 +19,10 @@ memory_sentence: The teacher was doing excessive labor to explain his point
 sentence: I don't want to belabour the point again
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

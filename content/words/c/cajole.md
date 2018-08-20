@@ -19,6 +19,10 @@ memory_sentence: Now a day kajol is flattering Sharukh Khan for getting a role i
 sentence: She was cajoled into accepting a part in play
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

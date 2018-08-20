@@ -19,6 +19,10 @@ memory_sentence: A wicked saint waved a stick of bamboo tree and sprinkled water
 sentence: A pakistani man bamboozled him of rs 500/-
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

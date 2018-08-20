@@ -19,6 +19,10 @@ memory_sentence: sir is keeping the specs cautiously since its very costly
 sentence: Having a circumspect approach during election
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

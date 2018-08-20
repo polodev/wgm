@@ -19,6 +19,10 @@ memory_keyword: AGE
 memory_sentence: Children's support is required in the old AGE
 sentence: Facilities were provided under the aegis of Red-cross Society.
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

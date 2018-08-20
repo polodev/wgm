@@ -19,6 +19,10 @@ memory_sentence: I don't see Banners on road because they are all dull & uninter
 sentence: Banal remarks/comments in the party
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

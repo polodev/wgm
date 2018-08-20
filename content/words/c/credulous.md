@@ -19,6 +19,10 @@ memory_sentence: He is a believable fellow, you can give him credit as much as h
 sentence: He is a credulous person.
 pronunciation:
 pictures:
+bn_meaning:
+bn_memory_keyword:
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

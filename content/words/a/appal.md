@@ -19,6 +19,10 @@ memory_sentence: when I saw my best pal taking bribe, I was shocked.
 sentence: It appals me to see how big it is!
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

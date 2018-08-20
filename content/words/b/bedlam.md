@@ -19,6 +19,10 @@ memory_sentence: Who will switch off the lamp off the bed? This made a situation
 sentence: The children made the room and kitchen absolute bedlam.
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

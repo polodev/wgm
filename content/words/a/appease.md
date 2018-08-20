@@ -19,6 +19,10 @@ memory_sentence: Why don't you take a piece of apple? It will relieve your hunge
 sentence: He was trying to appease his anger/hunger.
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

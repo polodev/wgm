@@ -19,6 +19,10 @@ memory_sentence: Brief summary require less pen writing
 sentence: This book is an invaluable compendium of my ideas and experiences.
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

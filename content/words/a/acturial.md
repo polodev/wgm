@@ -19,6 +19,10 @@ memory_keyword: actual
 memory_sentence: to calculate actual result, you need a calculator.
 sentence: His acturial skill is very good.
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

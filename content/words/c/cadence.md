@@ -19,6 +19,10 @@ memory_sentence: On the musical beat my cat started to dance
 sentence: Recite poetry with slow cadence
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

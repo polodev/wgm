@@ -19,6 +19,10 @@ memory_sentence: Tailor did wrong alteration of my trouser so a noisy quarrel to
 sentence: A brief altercation with match referee.
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

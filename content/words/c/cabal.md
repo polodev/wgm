@@ -19,6 +19,10 @@ memory_sentence: a group of people having plot to steal ks network Internet cabl
 sentence: The dictator shot every member of the cabal that had plotted to overthrow him.
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

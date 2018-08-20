@@ -19,6 +19,10 @@ memory_sentence: My uncle remains absent from cocktail party because her resists
 sentence: My friend has total abstinence from liquor nowadays.
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

@@ -19,6 +19,10 @@ memory_sentence: Nestle company agent was so convincing
 sentence: He produced cogent reasons to change in policy
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

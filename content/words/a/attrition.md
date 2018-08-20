@@ -19,6 +19,10 @@ memory_sentence: There was a gradual reduction of price At ration shop
 sentence: a high rate of attrition in union membership
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

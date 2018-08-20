@@ -19,6 +19,10 @@ memory_sentence: Though milky classmate Eva is rich still she has greed
 sentence: I don't like his avarice nature.
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

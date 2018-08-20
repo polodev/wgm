@@ -19,6 +19,10 @@ memory_sentence: Uncle is huffing Benson cigarette and blessing us
 sentence: The benison of the almighty shall help us through the difficult times.
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

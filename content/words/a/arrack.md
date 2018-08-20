@@ -19,6 +19,10 @@ memory_sentence: My brother hide alcoholic drink in a rack
 sentence: Arrack is a special kind of alcoholic drink
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

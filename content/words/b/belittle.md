@@ -19,6 +19,10 @@ memory_sentence: The LITTLE man feeling disparaged in the party for his small he
 sentence: We should not belittle the poor
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

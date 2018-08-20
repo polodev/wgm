@@ -19,6 +19,10 @@ memory_sentence: ass does lot of hard work from day to night
 sentence: An assiduous research by the scientist.
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

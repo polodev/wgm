@@ -19,6 +19,10 @@ memory_sentence: Crowd appropriated the celebrity for his ability to give autogr
 sentence: With a great celerity, he run away
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

@@ -19,6 +19,10 @@ memory_sentence: Lot of cat got killed because of sudden violent change esp floo
 sentence: The cataclysmic events of war.
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 

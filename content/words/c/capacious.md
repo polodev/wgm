@@ -19,6 +19,10 @@ memory_sentence: The capacity of my drawing room is very good. 15 people can sit
 sentence: A capacious boot of car
 pronunciation:
 pictures:
+bn_meaning: 
+bn_memory_keyword: 
+bn_memory_sentence:
+completion_percentage:
 synonyms:
 antonyms:
 
