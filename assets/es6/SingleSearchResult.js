@@ -47,7 +47,6 @@ class Search extends React.Component {
   }
   _search (e) {
     var query = this._getQueryVariable('search');
-    console.log('query', query);
     let search_results = this.state.lunrIndex.search(`*${query}*`);
     search_results = query.length ? search_results : []
     this.setState({query, search_results})
