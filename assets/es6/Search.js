@@ -53,11 +53,13 @@ class Search extends React.Component {
   }
   render ()  {
     const {query, search_results} = this.state
+    const after_domain = document.body.dataset.after_domain
     return (
-      <div>
+      <form method="get" action={`/${after_domain}/search`}>
         <input
           className="form-control mr-sm-2"
           value={query}
+          name='search'
           placeholder="Search..."
           onChange={this._changeQueryAndFilter}
           />
@@ -73,7 +75,7 @@ class Search extends React.Component {
               </ul>
             </div> : null
           }
-      </div>
+      </form>
     )
   }
 }
