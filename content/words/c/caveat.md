@@ -12,7 +12,7 @@ complete : false
 words:
 - c
 word: Caveat
-pos: n
+pos: "n"
 meaning: warning
 memory_keyword: Wheat
 memory_sentence: Food corporation of India issued a warning to the food inspector for poor storage of Wheat

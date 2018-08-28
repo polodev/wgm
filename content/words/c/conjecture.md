@@ -12,7 +12,7 @@ complete : false
 words:
 - c
 word: Conjecture
-pos: n
+pos: "n"
 meaning: a guess
 memory_keyword: jack (playing card)
 memory_sentence: I wrongly guessed that my opponent had jack of spade.

@@ -12,7 +12,7 @@ complete : false
 words:
 - c
 word: Cognomen
-pos: n
+pos: "n"
 meaning: last name; surname
 memory_keyword: congress-man
 memory_sentence: A notice was issued that all congressman will write their names with their surnames like this way - Sonia Gandhi Cognomen

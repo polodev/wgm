@@ -12,7 +12,7 @@ complete : false
 words:
 - c
 word: Cynosure
-pos: n
+pos: "n"
 meaning: a center of attention or interest
 memory_keyword: Dinosaur
 memory_sentence: Dinosaur was the center of attention in Stephen Spillberg's Jurrasik Park movie.

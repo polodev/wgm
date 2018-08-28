@@ -12,7 +12,7 @@ complete : false
 words:
 - b
 word: Bout
-pos: n
+pos: "n"
 meaning: a short period of intense activity
 memory_keyword: out
 memory_sentence: After a short period of intense work in the school during admission, He was out from school.

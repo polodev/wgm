@@ -12,7 +12,7 @@ complete : false
 words:
 - b
 word: Bulwark
-pos: n
+pos: "n"
 meaning: a defense / protection
 memory_keyword: Bull, Walk
 memory_sentence: A furious bull was walking towards me. To protect myself I hide in the corner

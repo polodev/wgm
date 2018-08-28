@@ -12,7 +12,7 @@ complete : false
 words:
 - b
 word: Bandy
-pos: n
+pos: "n"
 meaning: discuss lightly
 memory_keyword: Band
 memory_sentence: This musical Band was very noisy, So we discussed the matter very lightly

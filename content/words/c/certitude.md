@@ -12,7 +12,7 @@ complete : false
 words:
 - c
 word: Certitude
-pos: n
+pos: "n"
 meaning: a feeling of sureness
 memory_keyword: certificate
 memory_sentence: certificate or document gives the feeling of sureness to the employers.

@@ -12,7 +12,7 @@ complete : false
 words:
 - c
 word: Charlatan
-pos: n
+pos: "n"
 meaning: a person who claims more knowledge skill than he was
 memory_keyword: _char_ (4) ten
 memory_sentence: My uncle studied up to class 4. But He claims Tenth. He claims more knowledge skill than he was has.

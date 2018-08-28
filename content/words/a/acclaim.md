@@ -12,7 +12,7 @@ complete : false
 words:
 - a
 word: Acclaim
-pos: n
+pos: "n"
 meaning: prove something energetically and enthusiastically.
 memory_keyword: Claim
 memory_sentence: He claimed enthusiastically for proving he was right

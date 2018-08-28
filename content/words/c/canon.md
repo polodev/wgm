@@ -12,7 +12,7 @@ complete : false
 words:
 - c
 word: Canon
-pos: n
+pos: "n"
 meaning: a basic law or principle
 memory_keyword: Canon camera
 memory_sentence: The photographer put out a canon camera from his bag and told the basic principle of photography to the students of photography club.

@@ -12,7 +12,7 @@ complete : false
 words:
 - c
 word: Cupidity
-pos: n
+pos: "n"
 meaning: strong desire for wealth; greedy
 memory_keyword: cupid
 memory_sentence: cupid is a good of love & Plutus is god of wealth. So if you have strong desire for wealth you should worship Plutus;

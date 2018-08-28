@@ -12,7 +12,7 @@ complete : false
 words:
 - a
 word: Altercation
-pos: n
+pos: "n"
 meaning: noisy quarrel; heated dispute
 memory_keyword: alteration
 memory_sentence: Tailor did wrong alteration of my trouser so a noisy quarrel took place.

@@ -12,7 +12,7 @@ complete : false
 words:
 - c
 word: Conflagration
-pos: n
+pos: "n"
 meaning: a wild fire
 memory_keyword: flag
 memory_sentence: National flag caught wild fire on Independence day.

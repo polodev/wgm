@@ -12,7 +12,7 @@ complete : false
 words:
 - b
 word: Blandishment
-pos: n
+pos: "n"
 meaning: pleasant talks/action to flatter somebody
 memory_keyword: land
 memory_sentence: the property dealer who wants to sell his land, was flattering the client with his pleasant talk.

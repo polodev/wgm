@@ -12,7 +12,7 @@ complete : false
 words:
 - a
 word: Acme
-pos: n
+pos: "n"
 meaning: Peak; highest point
 memory_keyword: Lakme cream
 memory_sentence: Last year, Lakme company's sale was at the peak.

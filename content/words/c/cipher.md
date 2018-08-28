@@ -12,7 +12,7 @@ complete : false
 words:
 - c
 word: Cipher
-pos: n
+pos: "n"
 meaning: secret code
 memory_keyword: cheap; cheaper
 memory_sentence: Enter your secret code to purchase it cheap price

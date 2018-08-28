@@ -12,7 +12,7 @@ complete : false
 words:
 - d
 word: Dipsomaniac
-pos: n
+pos: "n"
 meaning: One who has a great desire for liquor
 memory_keyword: Dip so man
 memory_sentence: Our watchman has a great desire for liquor & wants to dip so deeply in the liquor.

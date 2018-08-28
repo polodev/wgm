@@ -12,7 +12,7 @@ complete : false
 words:
 - c
 word: Colander
-pos: n
+pos: "n"
 meaning: a special utensils
 memory_keyword: calender
 memory_sentence: A shopkeeper gave a free calender along with a special utensil of Diwali.

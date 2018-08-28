@@ -12,7 +12,7 @@ complete : false
 words:
 - a
 word: Affluence
-pos: n
+pos: "n"
 pronunciation:
 meaning: wealth, abundance
 memory_keyword: Fluency

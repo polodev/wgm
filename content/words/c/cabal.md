@@ -12,7 +12,7 @@ complete : false
 words:
 - c
 word: Cabal
-pos: n
+pos: "n"
 meaning: a group of people involved in a plot
 memory_keyword: cable
 memory_sentence: a group of people having plot to steal ks network Internet cable

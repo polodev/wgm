@@ -12,7 +12,7 @@ complete : false
 words:
 - b
 word: Behmoth
-pos: n
+pos: "n"
 meaning: a huge animal
 memory_keyword:
 memory_sentence:

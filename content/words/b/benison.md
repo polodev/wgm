@@ -12,7 +12,7 @@ complete : false
 words:
 - b
 word: Benison
-pos: n
+pos: "n"
 meaning: blessing or good wishes
 memory_keyword: Benson cigarette
 memory_sentence: Uncle is huffing Benson cigarette and blessing us

@@ -12,7 +12,7 @@ complete : false
 words:
 - a
 word: Anathema
-pos: n
+pos: "n"
 meaning: a curse
 memory_keyword: _anather_ma_
 memory_sentence: _gitake_ _bia_ _karate_ _gitar_ _ma_ _anathe_ke_ curse _dilo_

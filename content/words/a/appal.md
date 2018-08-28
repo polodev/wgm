@@ -12,7 +12,7 @@ complete : false
 words:
 - a
 word: Appal
-pos: n
+pos: "n"
 meaning: shocked
 memory_keyword: a pal
 memory_sentence: when I saw my best pal taking bribe, I was shocked.

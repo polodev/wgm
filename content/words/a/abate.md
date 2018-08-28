@@ -12,7 +12,7 @@ complete : false
 words:
 - a
 word: Abate
-pos: n
+pos: "n"
 meaning: to reduce; to lessen (of pain, noise, wind)
 memory_keyword: weight
 memory_sentence: The weight lifter's muscles were paining so he reduced the weights.

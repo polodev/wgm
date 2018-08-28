@@ -12,7 +12,7 @@ complete : false
 words:
 - d
 word: Disavowal
-pos: n
+pos: "n"
 meaning: denial; to say that something is not true
 memory_keyword: vowels
 memory_sentence: The English teacher denied the students that, she never said that students would put vowel 'a' before word 'honest'.

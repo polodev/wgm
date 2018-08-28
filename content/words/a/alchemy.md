@@ -12,7 +12,7 @@ complete : false
 words:
 - a
 word: Alchemy
-pos: n
+pos: "n"
 meaning: medieval chemistry
 memory_keyword: All chemist
 memory_sentence: All chemists are practicing medieval chemistry

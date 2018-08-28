@@ -12,7 +12,7 @@ complete : false
 words:
 - c
 word: Compendium
-pos: n
+pos: "n"
 meaning: brief summary
 memory_keyword: __kam__(less) pen
 memory_sentence: Brief summary require less pen writing

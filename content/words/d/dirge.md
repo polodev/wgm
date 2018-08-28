@@ -12,7 +12,7 @@ complete : false
 words:
 - d
 word: Dirge
-pos: n
+pos: "n"
 meaning: a song, poem of grief
 memory_keyword:
 memory_sentence:

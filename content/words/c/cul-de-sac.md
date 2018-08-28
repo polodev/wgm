@@ -12,7 +12,7 @@ complete : false
 words:
 - c
 word: Cul-De-Sac
-pos: n
+pos: "n"
 meaning: trap
 memory_keyword: call sack
 memory_sentence: one employee was trapped red handed doing some mischief so he was called and sacked from the job.

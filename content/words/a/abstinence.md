@@ -12,7 +12,7 @@ complete : false
 words:
 - a
 word: Abstinence
-pos: n
+pos: "n"
 meaning: resisting from eating and drinking
 memory_keyword: Absent
 memory_sentence: My uncle remains absent from cocktail party because her resists himself from eating & drinking

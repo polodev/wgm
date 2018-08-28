@@ -12,7 +12,7 @@ complete : false
 words:
 - a
 word: Attrition
-pos: n
+pos: "n"
 meaning: a gradual reduction
 memory_keyword: ration shop
 memory_sentence: There was a gradual reduction of price At ration shop

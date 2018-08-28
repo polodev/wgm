@@ -12,7 +12,7 @@ complete : false
 words:
 - d
 word: Diligence
-pos: n
+pos: "n"
 meaning: careful; hardworking
 memory_keyword: Delhi - gents
 memory_sentence: The gents of Delhi are very careful & hardworking.

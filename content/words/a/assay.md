@@ -12,7 +12,7 @@ complete : false
 words:
 - a
 word: Assay
-pos: n
+pos: "n"
 meaning: evaluation; analysis
 memory_keyword: eassy
 memory_sentence: The principle asked the teachers to evaluate the eassy on population carefully.

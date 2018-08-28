@@ -12,7 +12,7 @@ complete : false
 words:
 - a
 word: Arduous
-pos: n
+pos: "n"
 meaning: tough
 memory_keyword: Hard
 memory_sentence: This is a tough job, you will have to do lot of hard work.

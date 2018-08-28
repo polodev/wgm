@@ -12,7 +12,7 @@ complete : false
 words:
 - b
 word: Bibulous
-pos: n
+pos: "n"
 meaning: A drunkard person
 memory_keyword: BABULAL
 memory_sentence: BABULAL is a drunkard person

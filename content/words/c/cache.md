@@ -12,7 +12,7 @@ complete : false
 words:
 - c
 word: Cache
-pos: n
+pos: "n"
 meaning: secret place
 memory_keyword: cash
 memory_sentence: You should put this jewelery & cash in a secret place.

@@ -12,7 +12,7 @@ complete : false
 words:
 - c
 word: Cartographer
-pos: n
+pos: "n"
 meaning: map-maker
 memory_keyword: cartoon graphic paper
 memory_sentence: a map maker was designing cartoons of politicians in a graph paper.

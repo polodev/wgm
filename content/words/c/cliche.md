@@ -12,7 +12,7 @@ complete : false
 words:
 - c
 word: Cliche
-pos: n
+pos: "n"
 meaning: phrase repetitively used
 memory_keyword: Clutch
 memory_sentence: Avoid using phrase in the speech repeatitively like clutch in an automobile

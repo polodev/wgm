@@ -12,7 +12,7 @@ complete : false
 words:
 - d
 word: Discord
-pos: n
+pos: "n"
 meaning: quarrel; disagreement.
 memory_keyword: this cord.
 memory_sentence: One who has disagreement in this class I will tied with this cord.

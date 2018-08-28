@@ -12,7 +12,7 @@ complete : false
 words:
 - b
 word: Bluster
-pos: n
+pos: "n"
 meaning: to speak in a noisy manner
 memory_keyword: blast
 memory_sentence: after the bomb blast, people started to speak in noisy manner

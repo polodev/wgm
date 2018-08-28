@@ -12,7 +12,7 @@ complete : false
 words:
 - c
 word: Cadence
-pos: n
+pos: "n"
 meaning: Rhythm, Beat (musical)
 memory_keyword: cat dance
 memory_sentence: On the musical beat my cat started to dance

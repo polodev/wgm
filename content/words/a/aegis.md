@@ -12,7 +12,7 @@ complete : false
 words:
 - a
 word: Aegis
-pos: n
+pos: "n"
 pronunciation:
 meaning: protection; support
 memory_keyword: AGE

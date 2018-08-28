@@ -12,7 +12,7 @@ complete : false
 words:
 - b
 word: Beatitude
-pos: n
+pos: "n"
 meaning: perfect happiness
 memory_keyword: Beat, Attitude
 memory_sentence: See the Attitude of the students nowadays. The teacher was beating them but they were very happy.

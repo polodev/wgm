@@ -12,7 +12,7 @@ complete : false
 words:
 - c
 word: Chaff
-pos: n
+pos: "n"
 meaning: worthless
 memory_keyword: chef
 memory_sentence: Our newly appointed chef is worthless person. He doesn't know even how to prepare tomato soup.

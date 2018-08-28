@@ -10,9 +10,9 @@ complete : false
 
 
 words:
-- d
+- e
 word: {{ replace .Name "-" " " | title }}
-pos: v
+pos:
 meaning:
 memory_keyword:
 memory_sentence:

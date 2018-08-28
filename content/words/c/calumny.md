@@ -12,7 +12,7 @@ complete : false
 words:
 - c
 word: Calumny
-pos: n
+pos: "n"
 meaning: a false statement to defame somebody
 memory_keyword: column (in newspaper)
 memory_sentence: A false statement was deliberately published in the main column of the times of India to defame congress.

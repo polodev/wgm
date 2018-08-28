@@ -12,7 +12,7 @@ complete : false
 words:
 - a
 word: Amnesia
-pos: n
+pos: "n"
 meaning: loss of memory
 memory_keyword:
 memory_sentence:

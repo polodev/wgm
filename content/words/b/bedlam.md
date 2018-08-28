@@ -12,7 +12,7 @@ complete : false
 words:
 - b
 word: Bedlam
-pos: n
+pos: "n"
 meaning: any place or situation of confusion
 memory_keyword: BED, Lamp
 memory_sentence: Who will switch off the lamp off the bed? This made a situation of confusion.

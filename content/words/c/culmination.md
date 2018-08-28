@@ -12,7 +12,7 @@ complete : false
 words:
 - c
 word: Culmination
-pos: n
+pos: "n"
 meaning: attainment of highest point; climax, pinnacle, peak, high point, highest point
 memory_keyword: call me nation
 memory_sentence: Whenever you react to highest point call me. Our nation will serve you.

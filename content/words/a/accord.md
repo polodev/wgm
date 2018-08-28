@@ -12,7 +12,7 @@ complete : false
 words:
 - a
 word: Accord
-pos: n
+pos: "n"
 meaning: agreement
 memory_keyword: Hyundai accord card
 memory_sentence: There was a agreement between father and son to buy an Hyundai accord car

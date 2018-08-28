@@ -12,7 +12,7 @@ complete : false
 words:
 - a
 word: Affront
-pos: n
+pos: "n"
 meaning: insult; offense
 memory_keyword: front
 memory_sentence: we should not insult anybody in front of somebody else.

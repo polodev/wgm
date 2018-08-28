@@ -12,7 +12,7 @@ complete : false
 words:
 - c
 word: Celerity
-pos: n
+pos: "n"
 meaning: speedily
 memory_keyword: celebrity
 memory_sentence: Crowd appropriated the celebrity for his ability to give autograph speedily

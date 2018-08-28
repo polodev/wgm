@@ -12,7 +12,7 @@ complete : false
 words:
 - a
 word: Anchorite
-pos: n
+pos: "n"
 meaning: a saint
 memory_keyword: Anchor (Anchor tooth paste)
 memory_sentence: A Saint was cleaning his teeth with anchor toothpaste

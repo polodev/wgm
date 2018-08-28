@@ -12,7 +12,7 @@ complete : false
 words:
 - a
 word: Alacrity
-pos: n
+pos: "n"
 meaning: cheerful; promptness; eagerness
 memory_keyword: A Lac (Rupee(Indian currency))
 memory_sentence: There was sudden promptness in his work, the moment he got one lac rupees.
