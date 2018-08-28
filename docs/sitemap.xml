@@ -1082,12 +1082,6 @@
   </url>
   
   <url>
-    <loc>https://polodev.github.io/wgm/tags/words/</loc>
-    <lastmod>2018-08-29T00:20:16+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://polodev.github.io/wgm/words/</loc>
     <lastmod>2018-08-15T22:09:47+06:00</lastmod>
     <priority>0</priority>
@@ -1095,6 +1089,12 @@
   
   <url>
     <loc>https://polodev.github.io/wgm/categories/words/</loc>
+    <lastmod>2018-08-29T00:20:16+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://polodev.github.io/wgm/tags/words/</loc>
     <lastmod>2018-08-29T00:20:16+06:00</lastmod>
     <priority>0</priority>
   </url>
