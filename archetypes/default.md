@@ -10,7 +10,7 @@ complete : false
 
 
 words:
-- c
+- d
 word: {{ replace .Name "-" " " | title }}
 pos: v
 meaning:
